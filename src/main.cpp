@@ -4,9 +4,9 @@
 #include <AnimatedGIF.h>
 #include <time.h>
 
-const char* ssid     = "TYAD 2.4G Legacy";
-const char* password = "";
-const char* callsign = "KD3CMD";
+const char* ssid     = "INPUTYOURCREDENTIALS";
+const char* password = "INPUTYOURCREDENTIALS";
+const char* callsign = "INPUTYOURCALLSIGN";
 
 const char* ntpServer = "pool.ntp.org";
 const char* imageHost = "www.hamqsl.com";
