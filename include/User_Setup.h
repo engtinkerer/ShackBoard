@@ -1,6 +1,8 @@
 #pragma once
 
-#define USER_SETUP_LOADED
+#ifndef USER_SETUP_LOADED
+  #define USER_SETUP_LOADED
+#endif
 
 #define ILI9341_DRIVER
 #define TFT_RGB_ORDER TFT_RGB
